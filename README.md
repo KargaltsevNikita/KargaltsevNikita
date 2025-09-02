@@ -8,7 +8,7 @@
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## Хакатоны и kaggle-соревнования, в которых я участвовал
+## Мои хакатоны и kaggle-соревнования
 
 | Проект | Описание | Технологии |
 |--------|----------|------------|
