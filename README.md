@@ -22,7 +22,7 @@
 
 | Проект | Описание | Технологии |
 |--------|----------|------------|
-| [Ozon E-CUP 2025](https://github.com/username/mybot) | Автоматическое выявление поддельных товаров | ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white) |
+| [Теледом](https://github.com/username/mybot) | Предсказание оттока клиентов | ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white) |
 | [Avito ML cup 2025](https://github.com/username/mysite) | Персональные рекомендации товаров | ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white) |
 | [Data Fusion Contest 2025](https://github.com/username/githelper) | Предсказание категории товаров по их названию и описанию | ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white) |
 | [Kaggle Loan Approval Prediction](https://github.com/username/githelper) | Прогноз одобрения кредита | ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white) |
