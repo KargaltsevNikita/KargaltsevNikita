@@ -3,6 +3,6 @@ Header
 ## About me
 
 ### Languages and tools
-![Python](https://img.shields.io/badge/https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg:badgeContent)
+![Python](https://www.python.org/static/community_logos/python-logo.png)
 
 Follow me
