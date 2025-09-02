@@ -1,7 +1,10 @@
 # Никита Каргальцев
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/nikitakargaltsev)
 
-## Обо мне
+## Data Scientist
+Всегда любил технические инновации, так и начал интересоваться DS, ML и AI.
+Участвую в различных хакатонах.
+Прохожу соревнования в Kaggle и соревнования в ML от Яндекса.
 
 ## Технологии
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
