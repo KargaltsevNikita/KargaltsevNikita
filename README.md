@@ -18,7 +18,7 @@
 | Проект | Описание | Технологии |
 |--------|----------|------------|
 | [Avito ML cup 2025](https://github.com/KargaltsevNikita/Kaggle-Contest/tree/main/Avito%20ML%20cup%202025) | Персональные рекомендации товаров | ![Polars](https://img.shields.io/badge/Polars-black?style=flat&logo=polars&logoColor=orange) ![implicit](https://img.shields.io/badge/implicit-black?style=flat&logoColor=orange) ![SciPy](https://img.shields.io/badge/SciPy-black?style=flat&logo=scipy&logoColor=orange) ![NumPy](https://img.shields.io/badge/NumPy-black?style=flat&logo=numpy&logoColor=orange) |
-| [Data Fusion Contest 2025](https://github.com/username/githelper) | Предсказание категории товаров по их названию и описанию | ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white) |
+| [Data Fusion Contest 2025](https://github.com/username/githelper) | Предсказание категории товаров по их названию и описанию | ![PyTorch](https://img.shields.io/badge/torch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![Transformers](https://img.shields.io/badge/transformers-FFD21F?style=for-the-badge&logo=HuggingFace&logoColor=black) ![SRC](https://img.shields.io/badge/src-4B4B4B?style=for-the-badge) ![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) |
 | [Kaggle Loan Approval Prediction](https://github.com/username/githelper) | Прогноз одобрения кредита | ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white) |
 | [Kaggle Titanic - Machine Learning from Disaster](https://github.com/username/githelper) | Прогноз выживаемости | ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white) |
 
