@@ -23,7 +23,7 @@
 | [Kaggle House](https://github.com/KargaltsevNikita/Kaggle-Contest/tree/main/House%20Prices) | Прогноз стоимости дома | ![Pandas](https://img.shields.io/badge/Pandas-black?style=flat&logo=pandas&logoColor=orange) ![NumPy](https://img.shields.io/badge/NumPy-black?style=flat&logo=numpy&logoColor=orange) ![sklearn](https://img.shields.io/badge/sklearn-black?style=flat&logo=scikitlearn&logoColor=orange) |
 
 
-| Проект | Описание | Технологии &nbsp;&nbsp;|
+| Проект | Описание | Технологии &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
 |--------|----------|------------|
 | [Avito ML cup 2025](https://github.com/KargaltsevNikita/Kaggle-Contest/tree/main/Avito%20ML%20cup%202025) | Персональные рекомендации товаров | ![Polars](https://img.shields.io/badge/Polars-black?style=flat&logo=polars&logoColor=orange) ![Implicit](https://img.shields.io/badge/implicit-black?style=flat&logoColor=orange) ![SciPy](https://img.shields.io/badge/SciPy-black?style=flat&logo=scipy&logoColor=orange) |
 | [Data Fusion Contest 2025](https://github.com/KargaltsevNikita/Kaggle-Contest/tree/main/Data%20Fusion%20Contest%202025) | Предсказание категории товаров по их названию и описанию | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat&logo=pytorch&logoColor=orange) ![Transformers](https://img.shields.io/badge/Transformers-black?style=flat&logo=HuggingFace&logoColor=orange) ![src](https://img.shields.io/badge/src-black?style=flat&logoColor=orange) |
