@@ -1,7 +1,4 @@
 # Никита Каргальцев
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/nikitakargaltsev)
-
-# Никита Каргальцев
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/nikitakargaltsev)
 
 ## Data Scientist
