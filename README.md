@@ -1,6 +1,6 @@
 # Никита Каргальцев
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/nikitakargaltsev)
-![CV](https://img.shields.io/badge/CV-FF0000?style=flat&logo=readthedocs&logoColor=white)(https://drive.google.com/drive/u/0/folders/1ibBjLoC2-96ihVhDVhymVC_dljsObzVU)
+[![CV](https://img.shields.io/badge/CV-FF0000?style=flat&logo=readthedocs&logoColor=white)](https://drive.google.com/drive/u/0/folders/1ibBjLoC2-96ihVhDVhymVC_dljsObzVU)
 
 ## Data Scientist
 Всегда любил технические инновации, так и начал интересоваться DS, ML и AI.
