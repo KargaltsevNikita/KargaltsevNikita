@@ -19,6 +19,12 @@
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
+## Примеры реализованных коммерческих проектов
+
+| Проект | Описание | Технологии |
+|--------|----------|------------|
+| [Avito ML cup 2025](https://github.com/KargaltsevNikita/Kaggle-Contest/tree/main/Avito%20ML%20cup%202025) | Персональные рекомендации товаров | ![Polars](https://img.shields.io/badge/Polars-black?style=flat&logo=polars&logoColor=orange) ![Implicit](https://img.shields.io/badge/implicit-black?style=flat&logoColor=orange) ![SciPy](https://img.shields.io/badge/SciPy-black?style=flat&logo=scipy&logoColor=orange) |
+
 ## Мои хакатоны и kaggle-соревнования
 
 | Проект | Описание | Технологии |
