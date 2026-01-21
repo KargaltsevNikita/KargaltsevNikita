@@ -23,7 +23,7 @@
 
 | Проект | Описание | Технологии |
 |--------|----------|------------|
-| [Северсталь](https://github.com/KargaltsevNikita/Yandex-Masterskya/tree/main/Severstal/severstal-dashboard) | Интерактивная кластеризация данных | ![Polars](https://img.shields.io/badge/Polars-black?style=flat&logo=polars&logoColor=orange) ![Implicit](https://img.shields.io/badge/implicit-black?style=flat&logoColor=orange) ![SciPy](https://img.shields.io/badge/SciPy-black?style=flat&logo=scipy&logoColor=orange) |
+| [Северсталь](https://github.com/KargaltsevNikita/Yandex-Masterskya/tree/main/Severstal/severstal-dashboard) | Интерактивная кластеризация данных | ![Streamlit](https://img.shields.io/badge/Streamlit-black?style=flat&logo=streamlit&logoColor=orange) ![Faiss](https://img.shields.io/badge/Faiss-black?style=flat&logo=faiss&logoColor=orange) ![Docker](https://img.shields.io/badge/Docker-black?style=flat&logo=docker&logoColor=orange) |
 
 ## Мои хакатоны и kaggle-соревнования
 
