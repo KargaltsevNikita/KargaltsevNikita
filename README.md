@@ -5,10 +5,6 @@
 ## Data Scientist
 Всегда любил технические инновации, так и начал интересоваться DS, ML и AI.
 
-Участвую в различных хакатонах.
-
-Прохожу соревнования в Kaggle и соревнования в ML от Яндекса.
-
 ## Технологии
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
